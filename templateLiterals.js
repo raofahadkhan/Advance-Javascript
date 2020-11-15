@@ -15,8 +15,8 @@
 
 
 
-function printName(){
-    return 'Rao Fahad Khan';
-}
-const result = `my name is ${printName()}`;
-console.log(result);
+// fuction printName(){
+//     return 'Rao Fahad Khan';
+// }
+// const result = `my name is ${printName()}`;
+// console.log(result);
